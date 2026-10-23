@@ -1,4 +1,6 @@
-[Financials.csv](https://github.com/user-attachments/files/33863295/Financials.csv)# Sales-Performance-Analysis-
+## Dataset Used
+[Financials.csv](https://github.com/user-attachments/files/33863295/Financials.csv)# 
+### Sales-Performance-Analysis-
 End-to-end Business Intelligence project analyzing 2-year multinational sales data to uncover $128M revenue drivers, product profitability, and discount strategy failures.
 
 ### 🔴 Live Dashboard Preview
